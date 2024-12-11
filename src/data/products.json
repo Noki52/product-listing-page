@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 25,
+    "category": "Category 1"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 50,
+    "category": "Category 2"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 30,
+    "category": "Category 3"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 55,
+    "category": "Category 1"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 100,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 200,
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 150,
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "price": 1150,
+    "category": "Electronics"
+  }
+]
